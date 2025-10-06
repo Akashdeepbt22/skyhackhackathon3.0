@@ -1,1 +1,1 @@
-# skyhackhackathon3.0
+# Skyhack Hackathon 3.0
